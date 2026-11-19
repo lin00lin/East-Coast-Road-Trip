@@ -1,0 +1,14 @@
+# 產生器用的暫存檔
+_gen.py
+_files.json
+__pycache__/
+.DS_Store
+Thumbs.db
+# 瀏覽器不支援、已另存成 jpg/webp 的原始檔
+*.jxl
+1224/Peregrine Peak via Alum Cave Bluff Trail(4)
+# 主頁原圖（網頁用的是 home/ 裡壓縮過的 webp）
+Day*.png
+Home Page.png
+home/_sheet.jpg
+home/.gen_tmp
